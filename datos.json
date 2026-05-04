@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "Title": "Mandado",
+        "Author": "Fidel",
+        "Date and time": "04-05-2026 13:00",
+        "Body of the note": "Comprar pan, leche y huevos",
+        "Classification": "personal"
+    },
+    {
+        "id": 3,
+        "Title": "Buscar chamba",
+        "Author": "Onofre",
+        "Date and time": "05-05-2026 15:00",
+        "Body of the note": "Semestre empresarial :'c",
+        "Classification": "work"
+    }
+]
